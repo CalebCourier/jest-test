@@ -1,0 +1,14 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Basic jest setup for demonstration purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
